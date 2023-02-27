@@ -1,5 +1,5 @@
 <a href ="https://nfts-a5f24.firebaseapp.com/#SplashPage"><img height="400"
-src="https://firebasestorage.googleapis.com/v0/b/test-bdb24.appspot.com/o/Illustration_sans_titre%2012.png?alt=media&token=fa6ebfff-11cb-4f6e-8576-21f0594add17">
+src="https://github.com/Kams-art/Assets/blob/main/kams/banner.png">
 
 # Kams
 
