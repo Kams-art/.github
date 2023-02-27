@@ -7,6 +7,7 @@ Showcase your creativity.
   
 Vous êtes passionné d'art et souhaitez partager votre talent avec le monde entier ? Rejoignez dès maintenant notre nouveau réseau social d'art !
 Notre plateforme est conçue pour réunir les artistes du monde entier, qu'ils soient professionnels ou amateurs, et leur permettre de partager leur travail avec un public large et diversifié.
+
 Sur notre réseau social, vous pourrez :
 - Publier vos œuvres en ligne pour les partager avec les autres utilisateurs
 - Suivre les artistes qui vous inspirent et découvrir de nouveaux talents
@@ -15,7 +16,7 @@ Sur notre réseau social, vous pourrez :
 - Vendre vos œuvres à travers notre marketplace dédiée
 
 Notre plateforme est également un lieu d'échanges et de découvertes, où vous pourrez découvrir de nouvelles techniques, des tendances et des idées créatives.
-N'attendez plus et rejoignez dès maintenant notre communauté d'artistes en vous inscrivant sur notre réseau social d'art !
+N'attendez plus et rejoignez dès maintenant notre communauté d'artistes en vous inscrivant sur Kams !
 
 # Download
 
