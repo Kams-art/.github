@@ -79,5 +79,5 @@ Antoine Gonthier, 18 yo CEO & Founder at Kams and Epitech Student 🧑‍💻
   
 # License
 
-- This application is released under the MIT license and respect all the statue of the copyright
+- This application is released under the MIT license and respect all the statment of the copyright
 - Copyright © 2023 Kams Corporation, All right reseved.
