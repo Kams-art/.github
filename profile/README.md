@@ -24,11 +24,14 @@ Android               |  iOS               | MacOS               |  TvOS | Windo
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 [<img src="https://github.com/Kams-art/Assets/blob/main/logo/android/download.png" alt="Welcome Page" width="150"/>](https://play.google.com/store/apps/details?id=com.AntoineGonthier.kams&hl=fr&gl=US)|[![](https://github.com/Kams-art/Assets/blob/main/logo/ios/download.svg)](https://apps.apple.com/lk/app/kams/id1616390258)|[![](https://github.com/Kams-art/Assets/blob/main/logo/macos/download.svg)](https://apps.apple.com/lk/app/kams/id1616390258)|[![](https://github.com/Kams-art/Assets/blob/main/logo/tvos/download.svg)](https://apps.apple.com/lk/app/kams/id1616390258)|[<img src="https://github.com/Kams-art/Assets/blob/main/logo/windows/download.png" alt="Welcome Page" width="140"/>](https://nfts-a5f24.firebaseapp.com/#SplashPage)|[<img src="https://github.com/Kams-art/Assets/blob/main/logo/web/download.png" alt="Welcome Page" width="140"/>](https://nfts-a5f24.firebaseapp.com/#SplashPage)| 🚧
 
-<h1 align="">Language</h1>
+# Language
 <img src="https://skillicons.dev/icons?i=ruby,dart,kotlin,swift,html,css,bash,gradle" />
 
-<h1 align="">Framework</h1>
+# Framework
 <img src="https://skillicons.dev/icons?i=flutter,express,tensorflow" />
+
+# ML
+<img src="https://skillicons.dev/icons?i=googlecloud,python" />
 
 # Back-end
 
@@ -39,11 +42,6 @@ Android               |  iOS               | MacOS               |  TvOS | Windo
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"></a>&nbsp;
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"></a>&nbsp;
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"></a>&nbsp;
-
-# ML
-
-<a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></a>&nbsp;
-<a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a>&nbsp;
 
 # Dev-Ops
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"></a>&nbsp;
