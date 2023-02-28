@@ -25,18 +25,10 @@ Android               |  iOS               | MacOS               |  TvOS | Windo
 [<img src="https://github.com/Kams-art/Assets/blob/main/logo/android/download.png" alt="Welcome Page" width="150"/>](https://play.google.com/store/apps/details?id=com.AntoineGonthier.kams&hl=fr&gl=US)|[![](https://github.com/Kams-art/Assets/blob/main/logo/ios/download.svg)](https://apps.apple.com/lk/app/kams/id1616390258)|[![](https://github.com/Kams-art/Assets/blob/main/logo/macos/download.svg)](https://apps.apple.com/lk/app/kams/id1616390258)|[![](https://github.com/Kams-art/Assets/blob/main/logo/tvos/download.svg)](https://apps.apple.com/lk/app/kams/id1616390258)|[<img src="https://github.com/Kams-art/Assets/blob/main/logo/windows/download.png" alt="Welcome Page" width="140"/>](https://nfts-a5f24.firebaseapp.com/#SplashPage)|[<img src="https://github.com/Kams-art/Assets/blob/main/logo/web/download.png" alt="Welcome Page" width="140"/>](https://nfts-a5f24.firebaseapp.com/#SplashPage)| 🚧
 
 <h1 align="">Language</h1>
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,dart,kotlin,swift,html,css,bash,gradle" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=ruby,dart,kotlin,swift,html,css,bash,gradle" />
 
 <h1 align="">Framework</h1>
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,express,tensorflow" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,express,tensorflow" />
 
 # Back-end
 
