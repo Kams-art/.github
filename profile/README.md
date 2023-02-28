@@ -53,7 +53,7 @@ Android               |  iOS               | MacOS               |  TvOS | Windo
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"></a>&nbsp;
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/travis/travis-plain.svg"></a>&nbsp;
 
-# Supervisor:
+# Supervisor
 
 <a href ="https://kams-17c7d.web.app"><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg"></a>&nbsp;
 <a href ="https://kams-17c7d.web.app"><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg"></a>&nbsp;
