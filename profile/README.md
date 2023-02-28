@@ -1,4 +1,4 @@
-<a href="https://play.google.com/store/apps/details?id=com.thealphamerc.flutter_twitter_clone">
+<a href="https://kams-17c7d.web.app">
   <img width="100%" alt="Kams Banner" src="https://github.com/Kams-art/Assets/blob/main/kams/banner.png">
 </a>
 
