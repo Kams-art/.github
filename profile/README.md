@@ -26,13 +26,17 @@ Android               |  iOS               | MacOS               |  TvOS | Windo
 [<img src="https://github.com/Kams-art/Assets/blob/main/logo/android/download.png" alt="Welcome Page" width="150"/>](https://play.google.com/store/apps/details?id=com.AntoineGonthier.kams&hl=fr&gl=US)|[![](https://github.com/Kams-art/Assets/blob/main/logo/ios/download.svg)](https://apps.apple.com/lk/app/kams/id1616390258)|[![](https://github.com/Kams-art/Assets/blob/main/logo/macos/download.svg)](https://apps.apple.com/lk/app/kams/id1616390258)|[![](https://github.com/Kams-art/Assets/blob/main/logo/tvos/download.svg)](https://apps.apple.com/lk/app/kams/id1616390258)|[<img src="https://github.com/Kams-art/Assets/blob/main/logo/windows/download.png" alt="Welcome Page" width="140"/>](https://nfts-a5f24.firebaseapp.com/#SplashPage)|[<img src="https://github.com/Kams-art/Assets/blob/main/logo/web/download.png" alt="Welcome Page" width="140"/>](https://nfts-a5f24.firebaseapp.com/#SplashPage)| 🚧
 
 # Language
+<a href="https://kams-17c7d.web.app">
 <img src="https://skillicons.dev/icons?i=ruby,dart,kotlin,swift,html,css,bash,gradle" />
+                                                                                     </a>
 
 # Framework
-<img src="https://skillicons.dev/icons?i=flutter,express,tensorflow" />
+<a href="https://kams-17c7d.web.app">
+<img src="https://skillicons.dev/icons?i=flutter,express,tensorflow" /></a>
 
 # ML
-<img src="https://skillicons.dev/icons?i=googlecloud,python" />
+<a href="https://kams-17c7d.web.app">
+<img src="https://skillicons.dev/icons?i=googlecloud,python" /></a>
 
 # Back-end
 
@@ -50,7 +54,7 @@ Android               |  iOS               | MacOS               |  TvOS | Windo
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/travis/travis-plain.svg"></a>&nbsp;
 
 # Supervisor:
-
+<a href="https://kams-17c7d.web.app">
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg"></a>&nbsp;
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg"></a>&nbsp;
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg"></a>&nbsp;
@@ -60,7 +64,7 @@ Android               |  iOS               | MacOS               |  TvOS | Windo
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"></a>&nbsp;
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"></a>&nbsp;
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg"></a>&nbsp;
-
+</a>
 # Credit
   
 Antoine Gonthier, 18 yo CEO & Founder at Kams and Epitech Student 🧑‍💻
