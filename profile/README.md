@@ -1,4 +1,4 @@
-<a href="https://kams-17c7d.web.app">
+<a href="https://kams-art.com">
   <img width="100%" alt="Kams Banner" src="https://github.com/Kams-art/Assets/blob/main/kams/banner.png">
 </a>
 
