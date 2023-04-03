@@ -1,5 +1,5 @@
 <a href="https://kams-art.com">
-  <img width="100%" alt="Kams Banner" src="https://github.com/Kams-art/Assets/blob/main/kams/banner.png">
+  <img width="100%" alt="Kams Banner" src="https://github.com/Kams-art/assets/blob/main/store/full.png?raw=true">
 </a>
 
 # Kams
